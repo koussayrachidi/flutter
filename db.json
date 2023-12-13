@@ -1,0 +1,69 @@
+{
+  "students": [
+    {
+      "firstName": "Laith",
+      "lastName": "Mahdi",
+      "dob": "30/01/2001",
+      "dobPlace": "Tunis",
+      "imagePath": "/data/user/0/com.example.project4/cache/5cc59899-c9cb-46c1-8159-24e0563bca5b/109853134.jpg",
+      "grades": {
+        "math": "5",
+        "science": "4",
+        "history": "19"
+      },
+      "id": 13
+    },
+    {
+      "firstName": "Youssef",
+      "lastName": "Kthiri",
+      "dob": "30/01/2002",
+      "dobPlace": "Beja",
+      "imagePath": "/data/user/0/com.example.project4/cache/b2f2bfe1-8315-4467-9fc4-90fad6559519/1678431767114.jpg",
+      "grades": {
+        "math": "5",
+        "science": "4",
+        "history": "19"
+      },
+      "id": 14
+    },
+    {
+      "firstName": "Si Koussay",
+      "lastName": "Rachidi",
+      "dob": "01/10/2002",
+      "dobPlace": "Ezzahra",
+      "imagePath": "/data/user/0/com.example.project4/cache/946a1898-f4be-45d3-89c2-81fc6912c61a/1662561366303.jpg",
+      "grades": {
+        "math": "12",
+        "science": "4",
+        "history": "19"
+      },
+      "id": 15
+    },
+    {
+      "firstName": "koussay2",
+      "lastName": "Rachidi",
+      "dob": "01/10/2002",
+      "dobPlace": "Ezzahra",
+      "imagePath": "/data/user/0/com.example.project4/cache/86252e0f-f74e-4966-bdb5-8babb39fb20c6891908883687695160.jpg",
+      "grades": {
+        "math": "12",
+        "science": "4",
+        "history": "19"
+      },
+      "id": 16
+    },
+    {
+      "firstName": "koussay3",
+      "lastName": "Rachidi",
+      "dob": "01/10/2002",
+      "dobPlace": "Ezzahra",
+      "imagePath": "/data/user/0/com.example.project4/cache/72421f17-85f7-4d9e-a197-30e0aac976069189270256879431873.jpg",
+      "grades": {
+        "math": "12",
+        "science": "4",
+        "history": "19"
+      },
+      "id": 17
+    }
+  ]
+}
